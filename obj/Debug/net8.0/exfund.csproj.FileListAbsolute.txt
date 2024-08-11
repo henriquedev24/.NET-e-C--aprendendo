@@ -1,0 +1,14 @@
+C:\Users\PAULO\gabriel\exfund\bin\Debug\net8.0\exfund.exe
+C:\Users\PAULO\gabriel\exfund\bin\Debug\net8.0\exfund.deps.json
+C:\Users\PAULO\gabriel\exfund\bin\Debug\net8.0\exfund.runtimeconfig.json
+C:\Users\PAULO\gabriel\exfund\bin\Debug\net8.0\exfund.dll
+C:\Users\PAULO\gabriel\exfund\bin\Debug\net8.0\exfund.pdb
+C:\Users\PAULO\gabriel\exfund\obj\Debug\net8.0\exfund.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAULO\gabriel\exfund\obj\Debug\net8.0\exfund.AssemblyInfoInputs.cache
+C:\Users\PAULO\gabriel\exfund\obj\Debug\net8.0\exfund.AssemblyInfo.cs
+C:\Users\PAULO\gabriel\exfund\obj\Debug\net8.0\exfund.csproj.CoreCompileInputs.cache
+C:\Users\PAULO\gabriel\exfund\obj\Debug\net8.0\exfund.dll
+C:\Users\PAULO\gabriel\exfund\obj\Debug\net8.0\refint\exfund.dll
+C:\Users\PAULO\gabriel\exfund\obj\Debug\net8.0\exfund.pdb
+C:\Users\PAULO\gabriel\exfund\obj\Debug\net8.0\exfund.genruntimeconfig.cache
+C:\Users\PAULO\gabriel\exfund\obj\Debug\net8.0\ref\exfund.dll
