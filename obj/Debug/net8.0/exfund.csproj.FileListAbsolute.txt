@@ -12,3 +12,4 @@ C:\Users\PAULO\gabriel\exfund\obj\Debug\net8.0\refint\exfund.dll
 C:\Users\PAULO\gabriel\exfund\obj\Debug\net8.0\exfund.pdb
 C:\Users\PAULO\gabriel\exfund\obj\Debug\net8.0\exfund.genruntimeconfig.cache
 C:\Users\PAULO\gabriel\exfund\obj\Debug\net8.0\ref\exfund.dll
+C:\Users\PAULO\gabriel\exfund\obj\Debug\net8.0\exfund.sourcelink.json
