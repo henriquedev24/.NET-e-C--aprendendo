@@ -18,8 +18,8 @@
 // Console.WriteLine("Valor de double: " + preco);
 // Console.WriteLine("Valor de condicao: " + condicao);
 
-Console.WriteLine("Digite uma letra:");
-string letra = Console.ReadLine();
+// Console.WriteLine("Digite uma letra:");
+// string letra = Console.ReadLine();
 
 // if (letra == "a" || letra == "e" || letra == "i" || letra == "o" || letra == "u")
 // {
@@ -30,19 +30,19 @@ string letra = Console.ReadLine();
 //     Console.WriteLine("Não é vogal");
 // }
 
-switch (letra)
-{
-    case "a":
-    case "e":
-    case "i":
-    case "o":
-    case "u":
-        Console.WriteLine("Vogal");
-        break;
-    default: 
-        Console.WriteLine("Não é vogal");
-        break;
-}
+// switch (letra)
+// {
+//     case "a":
+//     case "e":
+//     case "i":
+//     case "o":
+//     case "u":
+//         Console.WriteLine("Vogal");
+//         break;
+//     default: 
+//         Console.WriteLine("Não é vogal");
+//         break;
+// }
 
 // Pessoa pessoa1 = new Pessoa();
 
@@ -68,3 +68,30 @@ switch (letra)
 // Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
 // Console.WriteLine($"Quantidade de compra: {quantidadeCompra}");
 // Console.WriteLine($"É possível realizar a venda? {possivelVenda}");
+
+Calculadora calc = new Calculadora();
+
+// calc.Somar(15, 30);
+// calc.Subtrair(15, 30);
+// calc.Multiplicar(15, 30);
+// calc.Dividir(15, 30);
+// calc.Potencia(3, 4);
+// calc.Seno(90);
+// calc.Cosseno(90);
+// calc.Tangente(90);
+calc.RaizQuadrada(36);
+
+// int num = 10;
+
+// Console.WriteLine(num);
+
+// Console.WriteLine("Incrementando 10");
+// num++;
+// Console.WriteLine(num);
+
+// int num2 = 50;
+// Console.WriteLine("Retrocendendo 50");
+// num2--;
+
+// Console.WriteLine(num2);
+

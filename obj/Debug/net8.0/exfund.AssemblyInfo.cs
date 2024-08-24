@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exfund")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4776db6d391a0a72d391489169b671a2d723d026")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67ea5445b552f5d4d6fdf06c6cbad0a10b5f11f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("exfund")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exfund")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
