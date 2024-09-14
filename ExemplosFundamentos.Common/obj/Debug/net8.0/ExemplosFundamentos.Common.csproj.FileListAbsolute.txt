@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Documents\DevGabriel\.NETC--aprendendo\ExemplosFundamentos.Common\bin\Debug\net8.0\ExemplosFundamentos.Common.deps.json
+C:\Users\USUARIO\Documents\DevGabriel\.NETC--aprendendo\ExemplosFundamentos.Common\bin\Debug\net8.0\ExemplosFundamentos.Common.dll
+C:\Users\USUARIO\Documents\DevGabriel\.NETC--aprendendo\ExemplosFundamentos.Common\bin\Debug\net8.0\ExemplosFundamentos.Common.pdb
+C:\Users\USUARIO\Documents\DevGabriel\.NETC--aprendendo\ExemplosFundamentos.Common\obj\Debug\net8.0\ExemplosFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\DevGabriel\.NETC--aprendendo\ExemplosFundamentos.Common\obj\Debug\net8.0\ExemplosFundamentos.Common.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\DevGabriel\.NETC--aprendendo\ExemplosFundamentos.Common\obj\Debug\net8.0\ExemplosFundamentos.Common.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\DevGabriel\.NETC--aprendendo\ExemplosFundamentos.Common\obj\Debug\net8.0\ExemplosFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\DevGabriel\.NETC--aprendendo\ExemplosFundamentos.Common\obj\Debug\net8.0\ExemplosFundamentos.Common.sourcelink.json
+C:\Users\USUARIO\Documents\DevGabriel\.NETC--aprendendo\ExemplosFundamentos.Common\obj\Debug\net8.0\ExemplosFundamentos.Common.dll
+C:\Users\USUARIO\Documents\DevGabriel\.NETC--aprendendo\ExemplosFundamentos.Common\obj\Debug\net8.0\refint\ExemplosFundamentos.Common.dll
+C:\Users\USUARIO\Documents\DevGabriel\.NETC--aprendendo\ExemplosFundamentos.Common\obj\Debug\net8.0\ExemplosFundamentos.Common.pdb
+C:\Users\USUARIO\Documents\DevGabriel\.NETC--aprendendo\ExemplosFundamentos.Common\obj\Debug\net8.0\ref\ExemplosFundamentos.Common.dll
