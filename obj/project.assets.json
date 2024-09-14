@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PAULO\\.nuget\\packages\\": {}
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PAULO\\gabriel\\exfund\\exfund.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\DevGabriel\\.NETC--aprendendo\\exfund.csproj",
       "projectName": "exfund",
-      "projectPath": "C:\\Users\\PAULO\\gabriel\\exfund\\exfund.csproj",
-      "packagesPath": "C:\\Users\\PAULO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PAULO\\gabriel\\exfund\\obj\\",
+      "projectPath": "C:\\Users\\USUARIO\\Documents\\DevGabriel\\.NETC--aprendendo\\exfund.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO\\Documents\\DevGabriel\\.NETC--aprendendo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PAULO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,5 +1,36 @@
 ﻿using exfund.Models;
 
+// int numero = 10;
+
+// for (int contador = 0; contador <= 10; contador++)
+// {
+//    Console.WriteLine($"{numero} x {contador} = {numero * contador}"); 
+// }
+// int contador = 0;
+// while (contador <= 10)
+// {
+//     Console.WriteLine($"{numero} x {contador} = {numero * contador}"); 
+//     contador++;
+
+//     if (contador == 5)
+//     {
+//         break;
+//     }
+// }
+
+
+int soma = 0, numero = 0;
+
+do
+{
+    Console.WriteLine("Digite um número(0 para parar)");
+    numero = Convert.ToInt32(Console.ReadLine());
+    
+    soma += numero;
+
+} while (numero != 0);
+Console.WriteLine($"Total da soma dos números é: {soma}");
+
 // DateTime dataAtual = DateTime.Now.AddDays(5);
 // Console.WriteLine(dataAtual);
 
@@ -69,7 +100,7 @@
 // Console.WriteLine($"Quantidade de compra: {quantidadeCompra}");
 // Console.WriteLine($"É possível realizar a venda? {possivelVenda}");
 
-Calculadora calc = new Calculadora();
+// Calculadora calc = new Calculadora();
 
 // calc.Somar(15, 30);
 // calc.Subtrair(15, 30);
@@ -79,7 +110,7 @@ Calculadora calc = new Calculadora();
 // calc.Seno(90);
 // calc.Cosseno(90);
 // calc.Tangente(90);
-calc.RaizQuadrada(36);
+// calc.RaizQuadrada(36);
 
 // int num = 10;
 
